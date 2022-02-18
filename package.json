@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vithursan6/jest-another-rpg.git"
+  },
+  "keywords": [
+    "rpg",
+    "game"
+  ],
+  "author": "vithursan6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vithursan6/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Vithursan6/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
